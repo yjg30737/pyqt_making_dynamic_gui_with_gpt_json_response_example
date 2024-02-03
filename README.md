@@ -10,6 +10,8 @@ Using GPT to make GUI dynamically, enough said :)
 
 Spending only 20 minutes to make this.
 
+Read and analyze `script.py, main.py, scrollArea.py` to figure out how i did this.
+
 ## How to Install
 1. git clone ~
 2. pip install -r requirements.txt
